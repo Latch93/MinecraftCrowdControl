@@ -1,0 +1,61 @@
+## Below are mobs that can be spawned in by anyone
+## A mob can only be spawned in 1 at a time and you will have a cooldown timer
+## If another viewer spawns in a mob and you try to spawn in one as well, you will have to wait until the mob has spawned to send your spawn command
+## Mobs spawned in will spawn after 10 seconds and a timer will display in game in the ActionBar to warn Latch
+## Example: If you want to spawn a Giant, you would type '|spawn giant' in the chat
+mobs:
+  ZOMBIE_VILLAGER: ZOMBIE_VILLAGER
+  SKELETON_HORSE: SKELETON_HORSE
+  ZOMBIE_HORSE: ZOMBIE_HORSE
+  DONKEY: DONKEY
+  MULE: MULE
+  SPIDER: SPIDER
+  GIANT: GIANT
+  ZOMBIE: ZOMBIE
+  SLIME: SLIME
+  GHAST: GHAST
+  ZOMBIFIED_PIGLIN: ZOMBIFIED_PIGLIN
+  ENDERMAN: ENDERMAN
+  SILVERFISH: SILVERFISH
+  BLAZE: BLAZE
+  MAGMA_CUBE: MAGMA_CUBE
+  BAT: BAT
+  ENDERMITE: ENDERMITE
+  PIG: PIG
+  SHEEP: SHEEP
+  COW: COW
+  CHICKEN: CHICKEN
+  SQUID: SQUID
+  WOLF: WOLF
+  MUSHROOM_COW: MUSHROOM_COW
+  SNOWMAN: SNOWMAN
+  OCELOT: OCELOT
+  IRON_GOLEM: IRON_GOLEM
+  HORSE: HORSE
+  RABBIT: RABBIT
+  POLAR_BEAR: POLAR_BEAR
+  LLAMA: LLAMA
+  PARROT: PARROT
+  VILLAGER: VILLAGER
+  TURTLE: TURTLE
+  PHANTOM: PHANTOM
+  COD: COD
+  SALMON: SALMON
+  PUFFERFISH: PUFFERFISH
+  TROPICAL_FISH: TROPICAL_FISH
+  DROWNED: DROWNED
+  DOLPHIN: DOLPHIN
+  CAT: CAT
+  PANDA: PANDA
+  PILLAGER: PILLAGER
+  RAVAGER: RAVAGER
+  TRADER_LLAMA: TRADER_LLAMA
+  WANDERING_TRADER: WANDERING_TRADER
+  FOX: FOX
+  BEE: BEE
+  HOGLIN: HOGLIN
+  PIGLIN: PIGLIN
+  STRIDER: STRIDER
+  AXOLOTL: AXOLOTL
+  GLOW_SQUID: GLOW_SQUID
+  GOAT: GOAT

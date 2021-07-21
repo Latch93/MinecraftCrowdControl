@@ -1,5 +1,7 @@
 # DISCLAIMER: Cooldown timers and cost of spawning/potion effects through donations are subject to change
 
+## List of commands
+### Commands and values passed are case-insensitive
 Command | Information | Usage/Example
 ------ | ------- | -------
 \|register | Registers a viewer so they can participate in chat | \|register
@@ -7,8 +9,7 @@ Command | Information | Usage/Example
 \|give | Gives an item to Latch | \|give Diamond_Block
 \|effect | Gives a potion effect to Latch | \|effect invisibility 
 
-## Commands and values passed are case-insensitive
-
+## Resources for values that can be passed with each commands and documentation
 Resource Name | Information | Link
 ------ | ------- | -------
 Mob List | These are mobs anyone can spawn in | https://github.com/Latch93/MinecraftCrowdControl/blob/master/mobList.yml

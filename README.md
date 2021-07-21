@@ -1,3 +1,5 @@
+# DISCLAIMER: Cooldown timers and cost of spawning/potion effects through donations are subject to change
+
 Command | Information | Usage/Example
 ------ | ------- | -------
 \|register | Registers a viewer so they can participate in chat | \|register
@@ -5,7 +7,7 @@ Command | Information | Usage/Example
 \|give | Gives an item to Latch | \|give Diamond_Block
 \|effect | Gives a potion effect to Latch | \|effect invisibility 
 
-Commands and values passed are case-insensitive
+## Commands and values passed are case-insensitive
 
 Resource Name | Information | Link
 ------ | ------- | -------
@@ -20,5 +22,3 @@ Rank  | Cooldown Timer Length
 default | 180 seconds
 Super | 90 seconds
 SuperDuper | 45 seconds
-
-DISCLAIMER: Cooldown timers and cost of spawning/potion effects through donations are subject to change

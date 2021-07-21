@@ -1,3 +1,12 @@
+Command | Information | Usage/Example
+------ | ------- | -------
+\|register | Registers a viewer so they can participate in chat | \|register
+\|spawn | Spawns a mob in game on Latch | \|spawn wolf
+\|give | Gives an item to Latch | \|give Diamond_Block
+\|effect | Gives a potion effect to Latch | \|effect invisibility 
+
+Commands and values passed are case-insensitive
+
 Resource Name | Information | Link
 ------ | ------- | -------
 Mob List | These are mobs anyone can spawn in | https://github.com/Latch93/MinecraftCrowdControl/blob/master/mobList.yml

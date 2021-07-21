@@ -18,6 +18,7 @@ Item List | These are items that can be given to Latch | https://github.com/Latc
 Potion List | These are potion effects anyone can give Latch | https://github.com/Latch93/MinecraftCrowdControl/blob/master/potionList.yml
 Negative Potion List | These are potion effects that can only be added by ranked members or donations | https://github.com/Latch93/MinecraftCrowdControl/blob/master/negativePotionEffectsList.yml
 
+## Rank Cooldown Timer Lengths
 Rank  | Cooldown Timer Length 
 ------ | ------- 
 default | 180 seconds

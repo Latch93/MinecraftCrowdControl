@@ -1,7 +1,7 @@
-# DISCLAIMER: Cooldown timers and cost of spawning/potion effects through donations are subject to change
+# 🔴 DISCLAIMER: Cooldown timers and cost of spawning/potion effects through donations are subject to change 🔴
 
-## List of commands
-### Commands and values passed are case-insensitive
+## 🟣List of commands🟣
+### 🏁 Commands and values passed are case-insensitive 🏁
 Command | Information | Usage/Example
 ------ | ------- | -------
 \|register | Registers a viewer so they can participate in chat | \|register
@@ -9,7 +9,7 @@ Command | Information | Usage/Example
 \|give | Gives an item to Latch | \|give Diamond_Block
 \|effect | Gives a potion effect to Latch | \|effect invisibility 
 
-## Resources for values that can be passed with each commands and documentation
+## 🟣Resources for values that can be passed with each commands and documentation🟣
 Resource Name | Information | Link
 ------ | ------- | -------
 Mob List | These are mobs anyone can spawn in | https://github.com/Latch93/MinecraftCrowdControl/blob/master/mobList.yml
@@ -18,7 +18,7 @@ Item List | These are items that can be given to Latch | https://github.com/Latc
 Potion List | These are potion effects anyone can give Latch | https://github.com/Latch93/MinecraftCrowdControl/blob/master/potionList.yml
 Negative Potion List | These are potion effects that can only be added by ranked members or donations | https://github.com/Latch93/MinecraftCrowdControl/blob/master/negativePotionEffectsList.yml
 
-## Rank Cooldown Timer Lengths
+## 🟣Rank Cooldown Timer Lengths🟣
 Rank  | Cooldown Timer Length 
 ------ | ------- 
 default | 180 seconds

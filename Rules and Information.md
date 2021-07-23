@@ -4,10 +4,10 @@
 ### 🏁 Commands and values passed are case-insensitive 🏁
 Command | Information | Usage/Example
 ------ | ------- | -------
-\|register | Registers a viewer so they can participate in chat | \|register
-\|spawn | Spawns a mob in game on Latch | \|spawn wolf
-\|give | Gives an item to Latch | \|give Diamond_Block
-\|effect | Gives a potion effect to Latch | \|effect invisibility 
+!register | Registers a viewer so they can participate in chat | !register
+!spawn | Spawns a mob in game on Latch | !spawn wolf
+!give | Gives an item to Latch | !give Diamond_Block
+!effect | Gives a potion effect to Latch | !effect invisibility 
 
 ## 🟣Resources for values that can be passed with each commands and documentation🟣
 Resource Name | Information | Link

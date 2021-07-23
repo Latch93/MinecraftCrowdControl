@@ -1,6 +1,6 @@
 ## Items below are available to give to Latch
-## In order to give an item, type '|give [itemName]' in the chat
-## Example: |give Diamond
+## In order to give an item, type '!give [itemName]' in the chat
+## Example: !give Diamond
 ## ^^^ This will give 1 diamond to Latch
 items:
   AIR: AIR

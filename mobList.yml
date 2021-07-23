@@ -2,7 +2,7 @@
 ## A mob can only be spawned in 1 at a time and you will have a cooldown timer
 ## If another viewer spawns in a mob and you try to spawn in one as well, you will have to wait until the mob has spawned to send your spawn command
 ## Mobs spawned in will spawn after 10 seconds and a timer will display in game in the ActionBar to warn Latch
-## Example: If you want to spawn a Giant, you would type '|spawn giant' in the chat
+## Example: If you want to spawn a Giant, you would type '!spawn giant' in the chat
 mobs:
   ZOMBIE_VILLAGER: ZOMBIE_VILLAGER
   SKELETON_HORSE: SKELETON_HORSE

@@ -3,7 +3,7 @@
 ## If you donate money to spawn in one of these mobs, then the mob will spawn without warning to Latch and does not affect your cooldown timer
 ## In order to spawn a mob by donation, the donation amount must be the specific amount listed below for the mob you want to spawn
 ## Example Donation: If you want to spawn a creeper with a donation, you would donate $1.50 USD
-## Example Spawn command in Twitch Chat: |spawn creeper
+## Example Spawn command in Twitch Chat: !spawn creeper
 ## ^^^ Both examples would spawn a creeper in game
 mobs:
   SKELETON: 1.00

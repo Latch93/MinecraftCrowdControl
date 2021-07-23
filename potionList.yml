@@ -1,6 +1,6 @@
 ## Potions below are available to effect Latch
-## In order to give Latch any of these effects, type '|effect [effectName]' in Twitch chat
-## Example: |effect slow
+## In order to give Latch any of these effects, type '!effect [effectName]' in Twitch chat
+## Example: !effect slow
 ## ^^^ This will give the slowness effect to Latch for 30 seconds
 potions:
   SPEED: SPEED

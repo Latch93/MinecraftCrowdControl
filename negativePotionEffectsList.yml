@@ -6,7 +6,7 @@
 ## If you want to give Latch a Poison effect in Twitch chat and you are a Ranked Member, then type '|effect Poison' in Twitch chat
 ## Negative effects last 15 seconds
 potions:
-  POISON: 2.22
-  WITHER: 1.55
   BLINDNESS: 2.05
   LEVITATION: 3.50
+  POISON: 2.22
+  WITHER: 1.55

@@ -6,19 +6,19 @@
 ## Example Spawn command in Twitch Chat: |spawn creeper
 ## ^^^ Both examples would spawn a creeper in game
 mobs:
-  SKELETON: 1.00
-  PILLAGER: 1.05
-  ZOGLIN: 1.06
-  SHULKER: 1.10
-  HUSK: 1.15
-  STRAY: 1.20
-  CREEPER: 1.50
   CAVE_SPIDER: 1.70
-  PIGLIN_BRUTE: 1.75
-  WITCH: 1.85
-  GUARDIAN: 2.00
-  EVOKER: 2.25
-  WITHER_SKELETON: 2.50
-  RAVAGER: 3.00
+  CREEPER: 1.50
   ELDER_GUARDIAN: 3.75
+  EVOKER: 2.25
+  GUARDIAN: 2.00
+  HUSK: 1.15
   ILLUSIONER: 4.69
+  PIGLIN_BRUTE: 1.75
+  PILLAGER: 1.05
+  RAVAGER: 3.00
+  SHULKER: 1.10
+  SKELETON: 1.00
+  STRAY: 1.20
+  WITCH: 1.85
+  WITHER_SKELETON: 2.50
+  ZOGLIN: 1.06

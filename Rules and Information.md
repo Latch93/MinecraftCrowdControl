@@ -4,7 +4,9 @@
 ### 🏁 Commands and values passed are case-insensitive 🏁
 Command | Information | Usage/Example
 ------ | ------- | -------
-!register | Registers a viewer so they can participate in chat | !register
+!moblist | Gives link to the spawnable mob list | !moblist
+!itemlist | Gives link to the droppable item list | !itemlist
+!potionlist | Gives link to the potion effect list | !potionlist
 !spawn | Spawns a mob in game on Latch | !spawn wolf
 !give | Gives an item to Latch | !give Diamond_Block
 !effect | Gives a potion effect to Latch | !effect invisibility 

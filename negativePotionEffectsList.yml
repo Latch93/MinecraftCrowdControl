@@ -3,7 +3,7 @@
 ## If you donate money to give one of these effects, then the effect will be given to Latch and does not affect your cooldown timer
 ## In order to give a negative potion effect by donation, the donation amount must be the specific amount listed below for the effect you want to give
 ## If you want to give Latch a Poison effect with a donation, you would donate $2.22 USD
-## If you want to give Latch a Poison effect in Twitch chat and you are a Ranked Member, then type '|effect Poison' in Twitch chat
+## If you want to give Latch a Poison effect in Twitch chat and you are a Ranked Member, then type '!effect Poison' in Twitch chat
 ## Negative effects last 15 seconds
 potions:
   BLINDNESS: 2.05
